@@ -17,7 +17,7 @@ This project is a fully responsive group page layout built with Next.js and Type
 | Vercel / Netlify | Hosting platform (free)           |
 
 ## 🔗 Live Demo
-🌐 Hosted on: https://your-deployment-url.vercel.app
+🌐 Hosted on: [https://atc-world.vercel.app/](https://atc-world.vercel.app/)
 
 ## 📁 Getting Started
 
